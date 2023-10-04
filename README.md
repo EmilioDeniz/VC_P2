@@ -6,3 +6,4 @@ Por mi parte no usé ninguna fuente para realizar las implementaciones. -Álvaro
 
 
 * Documentación vista para aprender sobre la fusión de imagenes: https://docs.opencv.org/3.4/d5/dc4/tutorial_adding_images.html
+* Documentación sobre el método reduce usado para la obtención de los píxeles por fila https://shimat.github.io/opencvsharp_docs/html/7bb05237-7ff6-0e19-bfeb-36ea352b3051.htm
